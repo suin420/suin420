@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="35" height="35" /> Hello, nice to meet you !</h1>
 
-<!--
-**suin420/suin420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm <b>Suin</b>, studying to become an "AI teacher" who guides AI to have a positive impact on the world. </p> <br>
 
-Here are some ideas to get you started:
+<h3>About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **something cool**
+
+- 🌱 I’m currently learning **AWS, DevOps**
+
+- 💬 Ask me about **anything related to Python/ML/DL**
+
+- 💌 How to reach me **bkbk4478@gmail.com**
+
+- 💻 Please see more information here: 
+  <a href="https://delicious-maize-6b2.notion.site/149d510b6cc1801e83acf582ec58bdaa?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion Icon" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://suin2history.tistory.com/">
+    <img src="https://img.shields.io/badge/tistory-D95845?style=flat&logo=tistory&logoColor=white" alt="Tistory Icon" style="vertical-align: middle;"/>
+  </a>
+
+<p align="left">
+</p> <br>
+
+<h3>Technical Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="20" height="20" /></h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/> 
+  <img src="https://user-images.githubusercontent.com/81547780/151382642-730da5c5-5f6b-42da-b900-23a85253863a.svg"> 
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+</p> <br>
+
