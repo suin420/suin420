@@ -4,13 +4,13 @@
 
 <h3>About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /></h3>
 
-- 🔭 I’m currently working on **something cool**
+- 🔭 I’m currently working on **something cool!**
 
-- ❤️‍🔥 I'm interested in ML/DL/Multi-modal
+- ❤️‍🔥 I'm interested in **ML/DL/Multi-modal**
 
 - 🌱 I’m currently learning **AWS, DevOps**
 
-- 💬 Ask me about **anything related to Python/ML/DL**
+- 💬 Ask me about anything related to **Python/ML/DL**
 
 - 💌 How to reach me **bkbk4478@gmail.com**
 
@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/> 
   <img src="https://user-images.githubusercontent.com/81547780/151382642-730da5c5-5f6b-42da-b900-23a85253863a.svg"> 
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/> 
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/> 
