@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on **something cool**
 
+- ❤️‍🔥 I'm interested in ML/DL/Multi-modal
+
 - 🌱 I’m currently learning **AWS, DevOps**
 
 - 💬 Ask me about **anything related to Python/ML/DL**
