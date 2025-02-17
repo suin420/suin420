@@ -14,7 +14,7 @@
 
 - 💌 How to reach me **bkbk4478@gmail.com**
 
-- 💻 Please see more information here: [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://delicious-maize-6b2.notion.site/149d510b6cc1801e83acf582ec58bdaa?pvs=4) [![Tistory](https://img.shields.io/badge/tistory-D95845?style=flat&logo=tistory&logoColor=white)](https://suin2history.tistory.com/)
+- 💻 Please see more information here: [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://delicious-maize-6b2.notion.site/19dd510b6cc1806680b0f9fe3559049f?pvs=4) [![Tistory](https://img.shields.io/badge/tistory-D95845?style=flat&logo=tistory&logoColor=white)](https://suin2history.tistory.com/)
 
 <p align="left">
 </p> <br>
